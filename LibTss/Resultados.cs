@@ -3,9 +3,9 @@
 
     public class Resultados
     {
-        public RSFS SFS { get; set; }
-        public RAFP AFP { get; set; }
-        public RSRL SRL { get; set; }
+        public RSFS SFS { get; set; } //Seguro familiar de salud
+        public RAFP AFP { get; set; } //Administradora de fondos de pensiones
+        public RSRL SRL { get; set; } //Seguro de Riesgos Laborales
     }
 
     public class RSFS
