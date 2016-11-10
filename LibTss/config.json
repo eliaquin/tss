@@ -1,0 +1,18 @@
+﻿{
+  "SalarioMinimoPromedio": 9855.00,
+  "SFS": {
+    "Tope": 10,
+    "Empleador": 0.0709,
+    "Empleado": 0.0304
+  },
+  "AFP": {
+    "Tope": 20,
+    "Empleador": 0.0710,
+    "Empleado": 0.0287
+  },
+  "SRL": {
+    "Tope": 10,
+    "Empleador": 0.01,
+    "Empleado": 0.00
+  }
+}

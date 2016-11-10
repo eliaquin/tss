@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibTss", "LibTss\LibTss.csproj", "{22EBECC4-1668-48E4-AD61-6824310C0577}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrmTSS", "FrmTSS\FrmTSS.csproj", "{65429E7E-B6FB-4C05-9E8C-E10A7A077B04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{22EBECC4-1668-48E4-AD61-6824310C0577}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22EBECC4-1668-48E4-AD61-6824310C0577}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22EBECC4-1668-48E4-AD61-6824310C0577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65429E7E-B6FB-4C05-9E8C-E10A7A077B04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65429E7E-B6FB-4C05-9E8C-E10A7A077B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65429E7E-B6FB-4C05-9E8C-E10A7A077B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65429E7E-B6FB-4C05-9E8C-E10A7A077B04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
