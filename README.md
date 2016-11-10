@@ -1,9 +1,9 @@
 # Cálculo de aportes a la TSS
 DLL que recibo un salario y devuelve un objeto que incluye los aportes que tienen que realizar tanto el empleador como el empleado a la Tesorería de la Seguridad Social (TSS).
 
-# Uso:
+Uso:
 
-LTSS tss = new LTSS(decimal.Parse(txSueldo.Text));
+            LTSS tss = new LTSS(decimal.Parse(txSueldo.Text));
             var data = tss.Resultados;
             
             txSFSEmpleador.Text = data.SFS.Empleador.ToString("N2");
