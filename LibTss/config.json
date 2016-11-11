@@ -11,7 +11,7 @@
     "Empleado": 0.0287
   },
   "SRL": {
-    "Tope": 10,
+    "Tope": 4,
     "Empleador": 0.01,
     "Empleado": 0.00
   }
